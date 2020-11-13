@@ -31,6 +31,7 @@
     "noflo-core": "^0.6.0",
     "noflo-css": "^0.2.0",
     "noflo-dom": "^0.3.0",
+    "noflo-e2": "git+https://21e7b2eafc97c0beb38802cb1dc884c2f0f2f71c:x-oauth-basic@github.com/Encanto/noflo-e2.git",
     "noflo-flow": "^0.8.0",
     "noflo-geometry": "^0.3.0",
     "noflo-groups": "^0.3.0",

@@ -1,5 +1,10 @@
 # noflo-browser
 
+## Fork notes
+This is a fork of the noflo-browser project.  It serves noflo-browser components.  The purpose of the fork is to include our own custom components.  Components are added / removed by modifying the dependencies from package.json.
+
+## Original Readme
+
 A build of [NoFlo](https://noflojs.org) for browser, used as default runtime in [Flowhub](http://app.flowhub.io).
 Deployed to `https://noflojs.org/noflo-browser/everything.html`
 
